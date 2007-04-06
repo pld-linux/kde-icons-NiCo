@@ -9,6 +9,7 @@ Group:		Themes
 Source0:	http://ic3.deviantart.com/fs14/f/2007/095/4/3/%{_name}_Project_by_hammergom.zip
 # Source0-md5:	da2f260cc03582b71eea43d843f24f98
 URL:		http://www.deviantart.com/deviation/52511494/
+BuildRequires:	unzip
 Requires:	kdelibs
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
