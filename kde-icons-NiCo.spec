@@ -2,7 +2,7 @@
 Summary:	KDE icons - %{_name}
 Summary(pl.UTF-8):	Motyw ikon do KDE - %{_name}
 Name:		kde-icons-%{_name}
-Version:	0.1
+Version:	0
 Release:	1
 License:	GPL
 Group:		Themes
